@@ -1,1 +1,15 @@
 /* You can add global styles to this file, and also import other style files */
+$themes: (
+    light: (text: #070709,
+        background: #f9f9fb,
+        primary: #7564aa,
+        secondary: #b1a5d5,
+        accent: #8571c6,
+    ),
+    dark: (text: #f6f6f8,
+        background: #040406,
+        primary: #66559b,
+        secondary: #362a5a,
+        accent: #4d398e,
+    ),
+);
